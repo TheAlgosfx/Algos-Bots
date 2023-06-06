@@ -1,6 +1,8 @@
 # Algos-Bots!
-Kendi Sistemi Paylaşıyorum Ne Kadar Acar Veya Oziye Benzesede Hepimiz Biliyoruzki Aynısı Değil :)) , Yakın Bir Zamanda Paylaşıcam Bot Yapmıyordum Yaptımıda Paylaşıyorum Proje V14 Bilginize
-Proje Dahir Görseler
+Kendi Sistemi Paylaşıyorum Ne Kadar Acar Veya Oziye Benzesede Hepimiz Biliyoruzki Aynısı Değil :)) , Yakın Bir Zamanda Paylaşıcam Bot Yapmıyordum Yaptımıda Paylaşıyorum Proje V14 Versiyon Web Paneli Mevcut Bilginize..
+
+Proje Dahir Görseler;
+
 ![Ekran görüntüsü 2023-06-06 152649](https://github.com/TheAlgosfx/Algos-Bots/assets/133817375/77da859a-10de-4856-9f61-d3aca581726d)
 ![Ekran görüntüsü 2023-06-06 152716](https://github.com/TheAlgosfx/Algos-Bots/assets/133817375/de11206b-dc3d-4526-97e3-1b8dd426f9a4)
 ![Ekran görüntüsü 2023-06-06 152734](https://github.com/TheAlgosfx/Algos-Bots/assets/133817375/7f2788c8-3bf6-49fa-bac2-dfd7b5d7ec3b)
